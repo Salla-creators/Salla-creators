@@ -16,7 +16,6 @@
 
 <br>
 
-![Visiteurs](https://komarev.com/ghpvc/?username=Salla-creators&label=Visiteurs%20du%20profil&color=00ff88&style=for-the-badge)
 
 </div>
 

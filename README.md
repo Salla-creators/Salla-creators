@@ -12,7 +12,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@s.ouattara-b6y)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salla-ouattara-salla-39a7113b4)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/souattara_code/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300ff88.svg?style=for-the-badge&logo=google-chrome&logoColor=black)](https://salla-creators.github.io/portefeuille)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300ff88.svg?style=for-the-badge&logo=google-chrome&logoColor=black)](https://salla-creators.github.io/Mon_1e_portfolio)
 
 </div>
 
@@ -53,7 +53,7 @@ const sekou = {
 
 | 🎯 Projet | 📝 Description | 🔧 Stack | 🔗 Lien |
 |-----------|---------------|----------|---------|
-| **Portfolio** | Site personnel avec thème clair/sombre et effet néon | HTML · CSS · JS | [Voir le site](https://salla-creators.github.io/portefeuille) |
+| **Portfolio** | Site personnel avec thème clair/sombre et effet néon | HTML · CSS · JS | [Voir le site](https://salla-creators.github.io/Mon_1e_portfolio) |
 | **App Météo** | Météo en temps réel via OpenWeatherMap API | HTML · CSS · JS · Fetch API | [Voir le repo](https://github.com/Salla-creators/app-meteo) |
 | **To-Do List** | Gestion de tâches avec sauvegarde localStorage | HTML · CSS · JS | [Voir le repo](https://github.com/Salla-creators/todo-list) |
 
@@ -68,6 +68,39 @@ const sekou = {
 ![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salla-creators&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88)
 
 </div>
+
+---
+
+## 🗓️ Timeline de progression
+
+```
+2026
+│
+├── 📅 Début — HTML & CSS
+│   └── ✅ Portfolio personnel en ligne
+│
+├── 📅 Git & GitHub
+│   └── ✅ 3 repos publics — versioning maîtrisé
+│
+├── 📅 JavaScript
+│   ├── ✅ DOM & événements
+│   ├── ✅ Fetch API — App Météo connectée à OpenWeatherMap
+│   └── ✅ localStorage — To-Do List avec sauvegarde
+│
+├── 🔄 PHP avancé + POO        ← En cours
+│   ├── ⏳ Classes et méthodes
+│   └── ⏳ Système de login complet
+│
+├── ⏳ Laravel + Architecture MVC
+│   └── ⏳ Gestion d'étudiants fullstack
+│
+├── ⏳ API REST
+│   └── ⏳ Backend consommable par d'autres apps
+│
+└── ⏳ IA + Freelancing
+    ├── ⏳ Intégration APIs IA
+    └── ⏳ Premiers clients
+```
 
 ---
 
